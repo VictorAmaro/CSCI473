@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\bin\Debug\Hw5.exe.config
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\bin\Debug\Hw5.exe
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\bin\Debug\Hw5.pdb
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.csprojResolveAssemblyReference.cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.Properties.Resources.resources
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.csproj.GenerateResource.Cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.exe
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.pdb
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.Form1.resources
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw5\Hw5\obj\Debug\Hw5.Form2.resources

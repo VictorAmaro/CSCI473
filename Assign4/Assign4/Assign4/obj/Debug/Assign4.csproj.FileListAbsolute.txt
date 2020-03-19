@@ -1,0 +1,10 @@
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\bin\Debug\Assign4.exe.config
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\bin\Debug\Assign4.exe
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\bin\Debug\Assign4.pdb
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.csprojResolveAssemblyReference.cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.Form1.resources
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.Properties.Resources.resources
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.csproj.GenerateResource.Cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.exe
+C:\Users\victo\Desktop\School\CSCI\400 Level\CSCI 473\Hw4\Assign4\Assign4\obj\Debug\Assign4.pdb
